@@ -1,6 +1,6 @@
 # news app
 
-                              https://github.com/fatmayildiza/haberler/assets/77845128/50fa752f-1e04-402c-a508-6fe1fb562e1f
+https://github.com/fatmayildiza/haberler/assets/77845128/50fa752f-1e04-402c-a508-6fe1fb562e1f
 
 Merhaba,
  React Native kullanarak basit bir haber uygulaması geliştirdim. Bu proje, haberleri API üzerinden çekerek kullanıcılara sunan ve kullanıcıların haberlere göz atabileceği kolay kullanımlı bir uygulama olarak tasarlandı. İşte projede kullandığım ana teknolojiler:
